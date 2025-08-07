@@ -31,7 +31,7 @@ npm run build
 
 ## 📱 Live Demo
 
-Visit: [Your Deployment URL]
+Visit: https://preview-image-analysis-kzmljzpjovl2zhgdcym1.vusercontent.net/login
 
 ## 🛠️ Tech Stack
 
